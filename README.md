@@ -74,7 +74,7 @@ python3 ARRH.py
 * Decrypt or Encrypt hidden messages from someone you know
 
 * Skips common system files and extensions
-* Creates `.backup` copies before encryption
+* Creates `.backup` 
 * Generates a `SALT.KEY` file for decryption
 
 
